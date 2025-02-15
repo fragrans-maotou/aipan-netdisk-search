@@ -46,6 +46,7 @@
     "next-intl": "^3.25.1",
     "node-fetch": "^2.7.0",
     "node-telegram-bot-api": "^0.66.0",
+    "prisma": "^5.22.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.53.2",
@@ -68,7 +69,6 @@
     "eslint": "^8.56.0",
     "eslint-config-next": "^14.1.0",
     "postcss": "^8.4.35",
-    "prisma": "^6.0.1",
     "tailwindcss": "^3.4.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
